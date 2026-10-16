@@ -1,0 +1,1 @@
+-keep class com.filemanager.app.data.db.** { *; }
